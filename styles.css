@@ -80,6 +80,7 @@ h1{
 .foot h2{
     text-align: center;
     font-size: 3rem;
+    background-color:moccasin;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .foot i{
