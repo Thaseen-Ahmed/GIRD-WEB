@@ -351,4 +351,7 @@ h3{
         height: 14vh;
         
     }
+    .grid-container .bx{
+        height: 18vh;
+    }
 }
