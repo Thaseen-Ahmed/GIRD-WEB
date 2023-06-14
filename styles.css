@@ -309,10 +309,13 @@ h3{
     }   
     
 }
-@media(max-width:400px){
+@media(max-width:410px){
     .nav ul li {
-        padding: 15px 15px;
+        padding: 15px 13px;
     }
+}
+@media(max-width:400px){
+   
     .nav a {
         text-decoration: none;
         color: white;
@@ -335,5 +338,16 @@ h3{
     .grid-container .bx img {
         height: 15vh;
         margin-top: 15%;
+    }
+    .nav ul li {
+        padding: 15px 10px;
+    }
+    .grid-container .bx1 img {
+        height: 14vh;
+        margin-left: 2%;
+    }
+    .grid-container .bx img {
+        height: 14vh;
+        
     }
 }
