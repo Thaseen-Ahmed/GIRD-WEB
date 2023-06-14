@@ -273,9 +273,7 @@ h3{
     .nav ul li {
         padding: 15px 15px;
     }
-    .grid-container .bx img {
-        height: 17vh;
-    }
+   
     .grid-container .bx {
         height: 22vh;
         /* background-color: chocolate; */
@@ -283,6 +281,10 @@ h3{
         border: 3px solid black;
         background-size: cover;
         width: 80%;
+    }
+    .grid-container .bx img {
+        height: 15vh;
+        margin-top: 11%;
     }
 }
 @media(max-width:450px){
