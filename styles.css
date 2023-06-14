@@ -318,6 +318,22 @@ h3{
         color: white;
         font-size: smaller;
     }
-    
-    
+    .grid-container .bx {
+
+        /* background-color: chocolate; */
+        padding: 2px 6px;
+    }
+    .pro{
+        height: 7vh;
+    }
+    .home h2{
+        font-size: 1.4rem;
+    }
+    h1{
+        padding-top: 0;
+    }
+    .grid-container .bx img {
+        height: 15vh;
+        margin-top: 15%;
+    }
 }
